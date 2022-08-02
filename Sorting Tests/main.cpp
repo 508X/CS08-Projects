@@ -1,5 +1,5 @@
 #include <iostream>
-#include "../Sorting Functions/sorts/sorts.h"
+#include "../sorts/sorts.h"
 
 using namespace std;
 
