@@ -5,8 +5,8 @@
 #include <vector>
 #include <chrono>
 
-#include "../../Heap/heap_re.h"
-#include "../../Heap/cmp.h"
+#include "../Heap/heap_re.h"
+#include "../Heap/cmp.h"
 
 const static int MAX = 10;
 
