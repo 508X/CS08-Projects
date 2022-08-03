@@ -138,14 +138,6 @@ void test(){
             }
 
             break;
-//        case 'n':
-//            cout<<">>: ";cin>>num;
-//            setval(fptr, num);
-//            break;
-//        case 'm':
-//            cout<<">>: ";cin>>num;
-//            sethgt(fptr, num);
-//            break;
         case 'x':
             cout<<"See ya later!"<<endl;
             done = true;
