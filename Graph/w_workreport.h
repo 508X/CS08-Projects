@@ -5,13 +5,6 @@
 Work Report
 
       Features:
-
-        -Not Implmtd:   Complete search was not implemented
-                        from point a to b, I did not have enough time
-                        this weekend and had to juggle a bunch of
-                        assignments
-
-
         -Implemented:   Edges changed to weighted
                         Edges changed to dynamic
                         Labels changed to dynamic
@@ -27,11 +20,6 @@ Work Report
                         -Depth First (from book)
                         -Breadth First (from book)
                         cycles through available nodes
-
-
-
-        -Partly implemntd:
-
 
     Bugs     : no bugs afaik
 */
